@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sat@satprod.net",
+    "longName": "SatFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SatFace",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "597f4c41-611e-412a-abdf-54ac00170367",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
