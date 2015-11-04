@@ -1,11 +1,32 @@
 {
     "appKeys": {},
     "capabilities": [
-      "location"
+        "location"
     ],
     "companyName": "sat@satprod.net",
     "longName": "SatFace",
     "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            }
+        ]
+    },
     "sdkVersion": "3",
     "shortName": "SatFace",
     "targetPlatforms": [
@@ -15,26 +36,5 @@
     "versionLabel": "0.1",
     "watchapp": {
         "watchface": true
-    },
-    "resources": {
-      "media": [
-        {
-          "type": "font",
-          "name": "FONT_PERFECT_DOS_48",
-          "file": "fonts/perfect-dos-vga.ttf",
-          "compatibility":"2.7"
-        },
-        {
-          "type":"font",
-          "name":"FONT_PERFECT_DOS_20",
-          "file":"fonts/perfect-dos-vga.ttf",
-          "compatibility": "2.7"
-        },
-        {
-          "type": "png",
-          "name": "IMAGE_BACKGROUND",
-          "file": "images/background.png"
-        }
-      ]
     }
 }
