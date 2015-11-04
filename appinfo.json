@@ -1,14 +1,11 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+      "location"
     ],
     "companyName": "sat@satprod.net",
     "longName": "SatFace",
     "projectType": "native",
-    "resources": {
-        "media": []
-    },
     "sdkVersion": "3",
     "shortName": "SatFace",
     "targetPlatforms": [
